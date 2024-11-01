@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+.tb {width: 100%;margin-top: 8px;}
+tr {display: table-row;vertical-align: inherit;border-color: inherit;}
+.tb td {padding: 5px 5px 3px 0;border-top: 1px dotted #DEEFFB;}
+tr.hover:hover td {background: #F2F9FD;}

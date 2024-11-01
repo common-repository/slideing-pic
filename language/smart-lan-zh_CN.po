@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 拉幕展示\n"
+"POT-Creation-Date: 2014-02-24 15:22+0800\n"
+"PO-Revision-Date: 2014-02-24 15:22+0800\n"
+"Last-Translator: SmartCome <china8036@126.com>\n"
+"Language-Team: SmartCome <2811931192@qq.con>\n"
+"Language: 中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: G:\\ComsenzEXP\\wwwroot\\wordpress\\wp-content\\plugins"
+"\\slidingscreen\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/set.php:25
+msgid "Sliding Screen settings page"
+msgstr "拉幕展示设置页面"
+
+#: admin/set.php:25
+msgid "Sliding Screen settings"
+msgstr "拉幕展示设置"
+
+#: admin/set.php:32
+msgid "Sliding Screen plugin settings"
+msgstr "拉幕展示参数设置"
+
+#: admin/set.php:37
+msgid "Start time:"
+msgstr "开始时间："
+
+#: admin/set.php:37
+msgid "Tip:how many seconds start the plugin after the page ready"
+msgstr "页面加载完成后多少秒下拉操作"
+
+#: admin/set.php:38
+msgid "Retraction time:"
+msgstr "收起时间："
+
+#: admin/set.php:38
+msgid "Tip:how many seconds end the plugin after the page ready"
+msgstr "页面加载完成后多少秒开始上滚操作"
+
+#: admin/set.php:39
+msgid "Drop height:"
+msgstr "下拉高度"
+
+#: admin/set.php:39
+msgid "Tip:the max drop height"
+msgstr "下拉最大高度"
+
+#: admin/set.php:40
+msgid "Drop rate:"
+msgstr "下拉速度"
+
+#: admin/set.php:40 admin/set.php:41
+msgid "Tip:The larger number,the slower speed"
+msgstr "数越大 速度越慢"
+
+#: admin/set.php:41
+msgid "Retraction speed:"
+msgstr "收起速度"
+
+#: admin/set.php:42
+msgid "Picture link:"
+msgstr "图片链接"
+
+#: admin/set.php:42
+msgid "Tip:such as http://www.smartcome.com/template/newry_tqun/image/logo.png"
+msgstr "例如 http://www.smartcome.com/template/newry_tqun/image/logo.png"
+
+#: admin/set.php:64
+msgid "update successfully!"
+msgstr "更新成功"
+
+#: admin/set.php:66
+msgid "some thing wrong!"
+msgstr "操作失败！"
